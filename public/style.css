@@ -1,0 +1,129 @@
+body {
+  font-family: 'Arial', monospace;
+  background-color: #0e1525 !important;
+}
+
+img {
+  width: 30vw;
+  height: 30vw;
+  display: block;
+  margin: 0 auto;
+  iamge-align: center;
+}
+
+
+.nav-link{
+
+      color: #ffffff !important;
+}
+
+
+.navbar-brand{
+
+  color:#ffffff !important;
+  font-family: 'Arial', monospace;
+  margin-bottom: 4px;
+  font-size: 27px;
+}
+h1 {
+  text-align: center;
+  color: #f5f9fc;
+}
+
+h6{
+  color:#c8b971;
+  font-size: 30px;
+  font-family: 'Arial', monospace;
+  margin-top:30px;
+  text-align: center;
+}
+
+body {
+  font-family: 'Arial', monospace;
+  background-color: #0e1525 !important;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 30px;
+  color: #ffffff;
+}
+
+form {
+  max-width: 400px;
+  margin: 0 auto;
+  background: #1c2333; /* White background */
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+  color: #bfb16d; 
+}
+
+input[type="text"],
+input[type="number"],
+button[type="submit"] {
+  width: calc(100% - 18px); 
+  padding: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box; 
+}
+
+button[type="submit"] {
+  background-color: #2b3245; 
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #3c445c; /* Dark green hover color */
+}
+
+input[type="text"]:focus,
+input[type="number"]:focus {
+  border: 2px solid #55a6f8; /* Dark green focus border */
+  outline: none;
+}
+
+.card {
+  background-color: #1c2333 !important;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin: 20px;
+}
+
+.card p {
+  margin: 5px 0;
+  text-align: center;
+  color: #f5f9fc
+}
+
+.card button {
+  background-color: #2b3245;
+  color: #eedc85;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.card button:hover {
+  background-color: #3c445c;
+}
+
+navbar {
+  color: #2b3245 !important;
+}
